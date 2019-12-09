@@ -18,5 +18,9 @@ def using_shift (array)
   deleted_item = array.shift
 end
 
+def shift_with_args (array)
+  deleted_items = array.shift(2)
+end
 
+def
   
