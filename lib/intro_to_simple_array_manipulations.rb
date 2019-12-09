@@ -13,3 +13,10 @@ end
 def pop_with_args (array)
   deleted_elements = array.pop(2)
 end
+
+def using_shift (array)
+  deleted_item = array.shift
+end
+
+
+  
