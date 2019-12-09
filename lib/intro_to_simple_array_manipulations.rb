@@ -9,3 +9,7 @@ end
 def using_pop (array)
   deleted_element = array.pop
 end
+
+def pop_with_args (array)
+  deleted_elements = 
+end
