@@ -6,4 +6,6 @@ def using_unshift (array, string)
   array.unshift (string)
 end
 
-def
+def using_pop (array)
+  deleted_element = array.pop
+end
