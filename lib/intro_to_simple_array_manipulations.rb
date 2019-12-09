@@ -22,5 +22,5 @@ def shift_with_args (array)
   deleted_items = array.shift(2)
 end
 
-def
+
   
